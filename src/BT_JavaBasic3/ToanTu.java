@@ -6,7 +6,7 @@ public class ToanTu {
     // Phải khai báo là static --> vì biến static thuộc class, còn biến toàn cục thuộc đối tượng
     static int a = 5;
     static int b = 7;
-    static  int c = 10;
+    static int c = 10;
 
     public void OnTapToanTu(){
         // Toán tử quan hệ
