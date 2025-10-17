@@ -1,10 +1,12 @@
 package BT_JavaBasic3;
 
 public class ToanTu {
+// Tạo ra ít nhất 3 biến bất kỳ lưu giá trị trong class đó
 
-    int a = 5;
-    int b = 7;
-    int c = 10;
+    // Phải khai báo là static --> vì biến static thuộc class, còn biến toàn cục thuộc đối tượng
+    static int a = 5;
+    static int b = 7;
+    static  int c = 10;
 
     public void OnTapToanTu(){
         // Toán tử quan hệ
